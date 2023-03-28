@@ -10,7 +10,7 @@ const config = {
   tagline: 'Blog del instituto Superior Tecnologica JMA',
   //url: 'https://IESTP-JMA.github.io/',
   url:'https://IESTP-JMA.netlify.app',
-  baseUrl: '/blog-jma',
+  baseUrl: '/',
   //deploymentBranch:'gh-pages',
   //trailingSlash: false,
 
