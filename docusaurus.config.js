@@ -8,10 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Blog JMA',
   tagline: 'Blog del instituto Superior Tecnologica JMA',
-  url: 'https://IESTP-JMA.github.io/',
+  //url: 'https://IESTP-JMA.github.io/',
+  url:'https://IESTP-JMA.netlify.app',
   baseUrl: '/blog-jma',
-  deploymentBranch:'gh-pages',
-  trailingSlash: false,
+  //deploymentBranch:'gh-pages',
+  //trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -19,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'IESTP-JMA', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
+  //organizationName: 'IESTP-JMA', // Usually your GitHub org/user name.
+  //projectName: 'blog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
