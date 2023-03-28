@@ -1,7 +1,7 @@
 ---
 slug: ia-educacion
 title: La Inteligencia Artificial y su Importancia en la Educacion
-authors: [jalvarez, jarvicha]
+authors: [jalvarez]
 tags: [educacion, inteligencia artificial]
 ---
 ![inteligencia artifical en la educacion](./inteligencia-artificial.jpg)

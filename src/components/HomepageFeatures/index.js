@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Toda la Informacion esta estrucutrada, segmentada y desarrollada por Estudiantes, para el uso de los propios estudiantes.
+        Toda la Informacion esta estructurada, segmentada y desarrollada por Estudiantes, para el uso de los propios estudiantes.
       </>
     ),
   },
